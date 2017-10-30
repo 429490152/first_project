@@ -4,7 +4,7 @@ public class demo1 {
       {
         ;
     }
-
+hghgg
     public String addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();
         int i = a.length() - 1, j = b.length() -1, carry = 0;
